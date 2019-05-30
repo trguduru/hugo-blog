@@ -6,19 +6,25 @@ theme = "hyde-hyde"
 publishDir = "trguduru.github.io"
 
 
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+pygmentOptions = "linenos=table,linenos=inline"
+
+DisqusShortname = "tguduru"
 [params]
   #themeColor = "theme-base-09"
   #layoutReverse = true
   description ="thoughts"
   toc = "hugo"
   highlightjs = true
+  showcomments = true
+  relatedPosts = true
   
 ## Social Accounts
 [params.social]
     github = "trguduru"
     linkedin = "tguduru"
     twitter = "tguduru"
-    gravatar = "ghstreddy"
 
 ## Main Menu
 [[menu.main]]
@@ -30,7 +36,7 @@ publishDir = "trguduru.github.io"
     name = "Tags"
     identifier = "tags"
     weight = 300
-    url = "/tags/"
+    url = "/tags"
 [[menu.main]]
     name = "About"
     identifier = "about"
