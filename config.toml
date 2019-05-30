@@ -25,6 +25,7 @@ DisqusShortname = "tguduru"
     github = "trguduru"
     linkedin = "tguduru"
     twitter = "tguduru"
+    gravatar = "tguduru"
 
 ## Main Menu
 [[menu.main]]
