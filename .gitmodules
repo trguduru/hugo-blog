@@ -1,0 +1,3 @@
+[submodule "trguduru.github.io"]
+	path = trguduru.github.io
+	url = git@github.com:trguduru/trguduru.github.io.git
