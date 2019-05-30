@@ -10,6 +10,8 @@ publishDir = "trguduru.github.io"
   #themeColor = "theme-base-09"
   #layoutReverse = true
   description ="thoughts"
+  toc = "hugo"
+  highlightjs = true
   
 ## Social Accounts
 [params.social]

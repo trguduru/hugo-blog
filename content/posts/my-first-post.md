@@ -5,5 +5,22 @@ tags : [ "dev", "hugo", "hyde-hyde"]
 draft: false
 ---
 
-First Post
+## Header 1
+This is the content of header 1
 
+### sub header
+ sub header content
+ some code goes here 
+ ```java
+ public class Awesome{
+    public static void main(String [] args){
+        System.out.println("Some Code highlighted");
+    }
+ }
+ ```
+## Header 2
+Description about 2
+### notes
+awesome notes
+### comments
+awesome comments
